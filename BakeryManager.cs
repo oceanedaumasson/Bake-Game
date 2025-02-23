@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// Deals with instantiating customers and adding them to queue when needed 
 public class BakeryManager : MonoBehaviour
 {
     public QueueManager queueManager; // Reference QueueManager script
