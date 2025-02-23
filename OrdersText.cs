@@ -7,7 +7,7 @@ public class OrdersText : MonoBehaviour
 {
     public Text text;
 
-    // Lists of possible cake layers, flavors, toppings
+    // Arrays of possible cake layers, flavors, toppings
     // Can add to it later in game
     private static string[] layers = {"one", "two", "three"};
     private static string[] flavor = { "vanilla", "chocolate", "strawberry" };
